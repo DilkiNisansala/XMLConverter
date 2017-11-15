@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Table>
+    <Column>UserName</Column>
+    <Column>Password</Column>
+    <values>Dilki</values>
+    <values>D123</values>
+</Table>
+<Table>
+    <Column>UserName</Column>
+    <Column>Password</Column>
+    <values>Nisansala</values>
+    <values>D123</values>
+</Table>
